@@ -1,0 +1,13 @@
+Dataset,Model,Run,Accuracy
+Breast Cancer,VQNN (Ours),1,0.6293706293706294
+Breast Cancer,SVM (Baseline),1,0.9790209790209791
+Breast Cancer,VQNN (Ours),2,0.9230769230769231
+Breast Cancer,SVM (Baseline),2,0.9790209790209791
+Breast Cancer,VQNN (Ours),3,0.3146853146853147
+Breast Cancer,SVM (Baseline),3,0.965034965034965
+Wine,VQNN (Ours),1,0.8888888888888888
+Wine,SVM (Baseline),1,1.0
+Wine,VQNN (Ours),2,1.0
+Wine,SVM (Baseline),2,1.0
+Wine,VQNN (Ours),3,0.7333333333333333
+Wine,SVM (Baseline),3,1.0

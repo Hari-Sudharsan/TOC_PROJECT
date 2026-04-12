@@ -1,0 +1,11 @@
+Method,Accuracy,F1,AUC,MCC,Time_s
+LDA,93.71,0.952,0.987,0.869,16.4
+Kernel PCA,91.61,0.938,0.976,0.826,11.4
+SelectKBest (ANOVA F),88.11,0.913,0.983,0.751,18.5
+SelectKBest (MI),88.11,0.913,0.983,0.751,18.4
+RFE (Random Forest),88.11,0.913,0.983,0.751,18.9
+Random Forest Importance,88.11,0.914,0.989,0.756,18.9
+Extra Trees Importance,86.71,0.905,0.977,0.728,17.1
+PCA,79.72,0.861,0.976,0.585,17.1
+Truncated SVD,79.72,0.861,0.976,0.585,17.1
+ICA,62.94,0.773,0.479,0.0,18.4
